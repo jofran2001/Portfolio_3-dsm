@@ -22,7 +22,7 @@ Ao monitorar métricas como satisfação do cliente e qualidade das entregas, ot
 # Soft Skills Efetivamente Desenvolvidas:
 
 Desenvolvi soft skills essenciais ao lidar diariamente com equipes multidisciplinares e stakeholders. Aprimorei minha comunicação ao traduzir necessidades técnicas e de negócios, e fortaleci meu trabalho em equipe ao mediar diferentes perspectivas. Nas interações profissionais além da faculdade, adquiri habilidades práticas como negociação, mediação de conflitos e adaptabilidade.  
-
+Estas competências foram desenvolvidas organicamente através de desafios como prazos apertados, conflitos de prioridades, conflitos entre membros do mesmo time e a necessidade constante de alinhar expectativas entre áreas com objetivos distintos. Cada interação com desenvolvedores e stakeholders representou uma oportunidade de refinar minha capacidade de ouvir ativamente, articular ideias e construir consenso.
 
 
 # 🛠 Stack: 
